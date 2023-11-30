@@ -1,0 +1,15 @@
+DISCIPLINA: ALGORTIMOS E ESTRUTURA DE DADOS I
+ALUNO: RUBENS ALEXANDRE DE SOUSA FERREIRA
+
+TESTE
+
+01) Não consegui fazer.
+
+02) Esse programa utiliza uma função para realização de operações matemáticas com matrizes. Não consegui identificar a saída.
+
+03) Está faltando a chave de fechamento do escopo do laço de repetição "for", bem como o 0 e ponto e vírgula após o "return".
+
+04) Não consegui fazer.
+
+05) O programa terá como saída o valor "200" e o texto "Fim do laco!".
+
